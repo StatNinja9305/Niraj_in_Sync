@@ -1,0 +1,205 @@
+[
+    {
+        "url": "https://support.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "NonMedia",
+        "score": 0.4572950601577759
+    },
+    {
+        "url": "https://www.google.com",
+        "country": "Japan",
+        "domain": "google",
+        "category": "NonMedia",
+        "score": 0.44081953167915344
+    },
+    {
+        "url": "https://www.tableau.com",
+        "country": "Global",
+        "domain": "tableau",
+        "category": "NonMedia",
+        "score": 0.6374421715736389
+    },
+    {
+        "url": "https://www.opentext.com",
+        "country": "Global",
+        "domain": "opentext",
+        "category": "NonMedia",
+        "score": 0.6131425499916077
+    },
+    {
+        "url": "https://www.teamcomputers.com",
+        "country": "Global",
+        "domain": "teamcomputers",
+        "category": "NonMedia",
+        "score": 0.6329697370529175
+    },
+    {
+        "url": "https://translate.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "NonMedia",
+        "score": 0.35812920331954956
+    },
+    {
+        "url": "https://lightcast.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "lightcast",
+        "category": "NonMedia",
+        "score": 0.647150456905365
+    },
+    {
+        "url": "https://www.operaballet.nl",
+        "country": "Netherlands",
+        "domain": "operaballet",
+        "category": "NonMedia",
+        "score": 0.32169872522354126
+    },
+    {
+        "url": "https://guides.nyu.edu",
+        "country": "Education",
+        "domain": "nyu",
+        "category": "NonMedia",
+        "score": 0.4026094079017639
+    },
+    {
+        "url": "https://joblink.maine.gov",
+        "country": "Government",
+        "domain": "maine",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.myskillsfuture.gov.sg",
+        "country": "Singapore",
+        "domain": "myskillsfuture",
+        "category": "Media"
+    },
+    {
+        "url": "https://translate.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "Media",
+        "score": 0.35812920331954956
+    },
+    {
+        "url": "https://about.gitlab.com",
+        "country": "Global",
+        "domain": "gitlab",
+        "category": "NonMedia",
+        "score": 0.5864801406860352
+    },
+    {
+        "url": "https://careers.walmart.com",
+        "country": "Global",
+        "domain": "walmart",
+        "category": "NonMedia",
+        "score": 0.47388485074043274
+    },
+    {
+        "url": "https://durhamcollege.ca",
+        "country": "Canada",
+        "domain": "durhamcollege",
+        "category": "NonMedia",
+        "score": 0.40886908769607544
+    },
+    {
+        "url": "https://www.mieruka-engine.com",
+        "country": "Global",
+        "domain": "mieruka-engine",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://netbase.tdse.jp",
+        "country": "Japan",
+        "domain": "tdse",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kigyolog.com",
+        "country": "Japan",
+        "domain": "kigyolog",
+        "category": "NonMedia",
+        "score": 0.620061457157135
+    },
+    {
+        "url": "https://moltsinc.co.jp",
+        "country": "Japan",
+        "domain": "moltsinc",
+        "category": "Media",
+        "score": 0.6445955038070679
+    },
+    {
+        "url": "https://saas-search.jp",
+        "country": "Japan",
+        "domain": "saas-search",
+        "category": "Media",
+        "score": 0.6514809727668762
+    },
+    {
+        "url": "https://www.capterra.jp",
+        "country": "Japan",
+        "domain": "capterra",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.d4dr.jp",
+        "country": "Japan",
+        "domain": "d4dr",
+        "category": "Media",
+        "score": 0.5858777761459351
+    },
+    {
+        "url": "https://www.hottolink.co.jp",
+        "country": "Japan",
+        "domain": "hottolink",
+        "category": "Media",
+        "score": 0.6309198141098022
+    },
+    {
+        "url": "https://tofu.misosil.com",
+        "country": "Japan",
+        "domain": "misosil",
+        "category": "NonMedia",
+        "score": 0.6966226100921631
+    },
+    {
+        "url": "https://moribus.jp",
+        "country": "Japan",
+        "domain": "moribus",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.jstage.jst.go.jp",
+        "country": "Japan",
+        "domain": "jst",
+        "category": "Media",
+        "score": 0.4793959856033325
+    },
+    {
+        "url": "https://www.hitachi.co.jp",
+        "country": "Japan",
+        "domain": "hitachi",
+        "category": "Media",
+        "score": 0.29591208696365356
+    },
+    {
+        "url": "https://www.youtube.com",
+        "country": "Japan",
+        "domain": "youtube",
+        "category": "NonMedia",
+        "score": 0.31921786069869995
+    },
+    {
+        "url": "https://utilly.jp",
+        "country": "Japan",
+        "domain": "utilly",
+        "category": "Media",
+        "score": 0.5542172789573669
+    },
+    {
+        "url": "https://www2.deloitte.com",
+        "country": "Global",
+        "domain": "deloitte",
+        "category": "Media"
+    }
+]

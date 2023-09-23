@@ -1,0 +1,1934 @@
+[
+    {
+        "url": "https://support.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.tableau.com",
+        "country": "Global",
+        "domain": "tableau",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.opentext.com",
+        "country": "Global",
+        "domain": "opentext",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.teamcomputers.com",
+        "country": "Global",
+        "domain": "teamcomputers",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://translate.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://lightcast.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "lightcast",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.operaballet.nl",
+        "country": "Netherlands",
+        "domain": "operaballet",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://guides.nyu.edu",
+        "country": "Education",
+        "domain": "nyu",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://joblink.maine.gov",
+        "country": "Government",
+        "domain": "maine",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.myskillsfuture.gov.sg",
+        "country": "Singapore",
+        "domain": "myskillsfuture",
+        "category": "Media"
+    },
+    {
+        "url": "https://translate.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "Media"
+    },
+    {
+        "url": "https://about.gitlab.com",
+        "country": "Global",
+        "domain": "gitlab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://careers.walmart.com",
+        "country": "Global",
+        "domain": "walmart",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://durhamcollege.ca",
+        "country": "Canada",
+        "domain": "durhamcollege",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.mieruka-engine.com",
+        "country": "Global",
+        "domain": "mieruka-engine",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://netbase.tdse.jp",
+        "country": "Japan",
+        "domain": "tdse",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kigyolog.com",
+        "country": "Global",
+        "domain": "kigyolog",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://moltsinc.co.jp",
+        "country": "Japan",
+        "domain": "moltsinc",
+        "category": "Media"
+    },
+    {
+        "url": "https://saas-search.jp",
+        "country": "Japan",
+        "domain": "saas-search",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.capterra.jp",
+        "country": "Japan",
+        "domain": "capterra",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.d4dr.jp",
+        "country": "Japan",
+        "domain": "d4dr",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.hottolink.co.jp",
+        "country": "Japan",
+        "domain": "hottolink",
+        "category": "Media"
+    },
+    {
+        "url": "https://tofu.misosil.com",
+        "country": "Global",
+        "domain": "misosil",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://moribus.jp",
+        "country": "Japan",
+        "domain": "moribus",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.jstage.jst.go.jp",
+        "country": "Japan",
+        "domain": "jst",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.hitachi.co.jp",
+        "country": "Japan",
+        "domain": "hitachi",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.youtube.com",
+        "country": "Global",
+        "domain": "youtube",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://utilly.jp",
+        "country": "Japan",
+        "domain": "utilly",
+        "category": "Media"
+    },
+    {
+        "url": "https://www2.deloitte.com",
+        "country": "Global",
+        "domain": "deloitte",
+        "category": "Media"
+    },
+    {
+        "url": "https://kyodonewsprwire.jp",
+        "country": "Japan",
+        "domain": "kyodonewsprwire",
+        "category": "Media"
+    },
+    {
+        "url": "https://www-lmd.ist.hokudai.ac.jp",
+        "country": "Japan",
+        "domain": "hokudai",
+        "category": "Media"
+    },
+    {
+        "url": "https://neutrons.ornl.gov",
+        "country": "Government",
+        "domain": "ornl",
+        "category": "Media"
+    },
+    {
+        "url": "https://docs.aws.amazon.com",
+        "country": "Global",
+        "domain": "amazon",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.pmda.go.jp",
+        "country": "Japan",
+        "domain": "pmda",
+        "category": "Media"
+    },
+    {
+        "url": "https://marketing.xica.net",
+        "country": "Network",
+        "domain": "xica",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.cervn.jp",
+        "country": "Japan",
+        "domain": "cervn",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://eow.alc.co.jp",
+        "country": "Japan",
+        "domain": "alc",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ejje.weblio.jp",
+        "country": "Japan",
+        "domain": "weblio",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://dictionary.goo.ne.jp",
+        "country": "Japan",
+        "domain": "goo",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://dictionary.cambridge.org",
+        "country": "Organization",
+        "domain": "cambridge",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kubernetes.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "kubernetes",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://talking-english.net",
+        "country": "Network",
+        "domain": "talking-english",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ec-orange.jp",
+        "country": "Japan",
+        "domain": "ec-orange",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.ei-navi.jp",
+        "country": "Japan",
+        "domain": "ei-navi",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kotobank.jp",
+        "country": "Japan",
+        "domain": "kotobank",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://studious-english.com",
+        "country": "Global",
+        "domain": "studious-english",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.docomo.ne.jp",
+        "country": "Japan",
+        "domain": "docomo",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://context.reverso.net",
+        "country": "Network",
+        "domain": "reverso",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.nenkin.go.jp",
+        "country": "Japan",
+        "domain": "nenkin",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ja.wiktionary.org",
+        "country": "Organization",
+        "domain": "wiktionary",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://aws.amazon.com",
+        "country": "Global",
+        "domain": "amazon",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://freshservice.jp",
+        "country": "Japan",
+        "domain": "freshservice",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.post.japanpost.jp",
+        "country": "Japan",
+        "domain": "japanpost",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.linebiz.com",
+        "country": "Global",
+        "domain": "linebiz",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ja.bab.la",
+        "country": "Laos",
+        "domain": "bab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.datatec.co.jp",
+        "country": "Japan",
+        "domain": "datatec",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://sms-datatech.co.jp",
+        "country": "Japan",
+        "domain": "sms-datatech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ub-datatech.com",
+        "country": "Global",
+        "domain": "ub-datatech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://jp.ub-speeda.com",
+        "country": "Global",
+        "domain": "ub-speeda",
+        "category": "Media"
+    },
+    {
+        "url": "https://datatech-jp.connpass.com",
+        "country": "Global",
+        "domain": "connpass",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://event.shoeisha.jp",
+        "country": "Japan",
+        "domain": "shoeisha",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.datatech.co.jp",
+        "country": "Japan",
+        "domain": "datatech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://osakidatatech.com",
+        "country": "Global",
+        "domain": "osakidatatech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://sophia-data-tech.studio.site",
+        "country": "Site",
+        "domain": "studio",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://landscape.smktg.jp",
+        "country": "Japan",
+        "domain": "smktg",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://churadata.okinawa",
+        "country": "",
+        "domain": "churadata",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://blog.trocco.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "trocco",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.aosidx.jp",
+        "country": "Japan",
+        "domain": "aosidx",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://solutions.dac.co.jp",
+        "country": "Japan",
+        "domain": "dac",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.osaki.co.jp",
+        "country": "Japan",
+        "domain": "osaki",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://isc-okinawa.org",
+        "country": "Organization",
+        "domain": "isc-okinawa",
+        "category": "Media"
+    },
+    {
+        "url": "https://piano.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "piano",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.telework-rule.metro.tokyo.lg.jp",
+        "country": "Japan",
+        "domain": "tokyo",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.syscrawler-syspro.net",
+        "country": "Network",
+        "domain": "syscrawler-syspro",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.shtockdata.com",
+        "country": "Global",
+        "domain": "shtockdata",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://system-kanji.com",
+        "country": "Global",
+        "domain": "system-kanji",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.goodfirms.co",
+        "country": "Company",
+        "domain": "goodfirms",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.scrapeit.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "scrapeit",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://au.linkedin.com",
+        "country": "Global",
+        "domain": "linkedin",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://agenty.com",
+        "country": "Global",
+        "domain": "agenty",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://scrapingsolution.com",
+        "country": "Global",
+        "domain": "scrapingsolution",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://brightdata.jp",
+        "country": "Japan",
+        "domain": "brightdata",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.softbanktech.co.jp",
+        "country": "Japan",
+        "domain": "softbanktech",
+        "category": "Media"
+    },
+    {
+        "url": "https://groupbwt.com",
+        "country": "Global",
+        "domain": "groupbwt",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.upwork.com",
+        "country": "Global",
+        "domain": "upwork",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://hirinfotech.com",
+        "country": "Global",
+        "domain": "hirinfotech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://try.scrapelabs.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "scrapelabs",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://pig-data.jp",
+        "country": "Japan",
+        "domain": "pig-data",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.octoparse.jp",
+        "country": "Japan",
+        "domain": "octoparse",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.zyte.com",
+        "country": "Global",
+        "domain": "zyte",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.ifourtechnolab.com",
+        "country": "Global",
+        "domain": "ifourtechnolab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.g2.com",
+        "country": "Global",
+        "domain": "g2",
+        "category": "Media"
+    },
+    {
+        "url": "https://github.com",
+        "country": "Global",
+        "domain": "github",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://beyondjapan.com",
+        "country": "Global",
+        "domain": "beyondjapan",
+        "category": "Media"
+    },
+    {
+        "url": "https://edge-work.com",
+        "country": "Global",
+        "domain": "edge-work",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://sematext.com",
+        "country": "Global",
+        "domain": "sematext",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.hotjar.com",
+        "country": "Global",
+        "domain": "hotjar",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://uptimerobot.com",
+        "country": "Global",
+        "domain": "uptimerobot",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.comparitech.com",
+        "country": "Global",
+        "domain": "comparitech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.g2.com",
+        "country": "Global",
+        "domain": "g2",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.websiteplanet.com",
+        "country": "Global",
+        "domain": "websiteplanet",
+        "category": "Media"
+    },
+    {
+        "url": "https://popupsmart.com",
+        "country": "Global",
+        "domain": "popupsmart",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.pcmag.com",
+        "country": "Global",
+        "domain": "pcmag",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.site24x7.com",
+        "country": "Global",
+        "domain": "site24x7",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://middleware.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "middleware",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.pingdom.com",
+        "country": "Global",
+        "domain": "pingdom",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://neilpatel.com",
+        "country": "Global",
+        "domain": "neilpatel",
+        "category": "Media"
+    },
+    {
+        "url": "https://betterstack.com",
+        "country": "Global",
+        "domain": "betterstack",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.manageengine.com",
+        "country": "Global",
+        "domain": "manageengine",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://websitesetup.org",
+        "country": "Organization",
+        "domain": "websitesetup",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://geekflare.com",
+        "country": "Global",
+        "domain": "geekflare",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.capterra.com",
+        "country": "Global",
+        "domain": "capterra",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.uptrends.com",
+        "country": "Global",
+        "domain": "uptrends",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.freshworks.com",
+        "country": "Global",
+        "domain": "freshworks",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.datadoghq.com",
+        "country": "Global",
+        "domain": "datadoghq",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://b2b-s.jp",
+        "country": "Japan",
+        "domain": "b2b-s",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.infomart.co.jp",
+        "country": "Japan",
+        "domain": "infomart",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.zendesk.co.jp",
+        "country": "Japan",
+        "domain": "zendesk",
+        "category": "Media"
+    },
+    {
+        "url": "https://ferret-one.com",
+        "country": "Global",
+        "domain": "ferret-one",
+        "category": "Media"
+    },
+    {
+        "url": "https://cloud.media-radar.jp",
+        "country": "Japan",
+        "domain": "media-radar",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.sonypaymentservices.jp",
+        "country": "Japan",
+        "domain": "sonypaymentservices",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.jcb.co.jp",
+        "country": "Japan",
+        "domain": "jcb",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.innovation.co.jp",
+        "country": "Japan",
+        "domain": "innovation",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://usonar.co.jp",
+        "country": "Japan",
+        "domain": "usonar",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.nttcoms.com",
+        "country": "Global",
+        "domain": "nttcoms",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://btob.medix-inc.co.jp",
+        "country": "Japan",
+        "domain": "medix-inc",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://innova-jp.com",
+        "country": "Global",
+        "domain": "innova-jp",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.sbpayment.jp",
+        "country": "Japan",
+        "domain": "sbpayment",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://webtan.impress.co.jp",
+        "country": "Japan",
+        "domain": "impress",
+        "category": "Media"
+    },
+    {
+        "url": "https://b2b-marketing.co.jp",
+        "country": "Japan",
+        "domain": "b2b-marketing",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://sairu.co.jp",
+        "country": "Japan",
+        "domain": "sairu",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://tsuku2.co.jp",
+        "country": "Japan",
+        "domain": "tsuku2",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://leagle.co.jp",
+        "country": "Japan",
+        "domain": "leagle",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://property.jll.co.in",
+        "country": "India",
+        "domain": "jll",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://dealcheck.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "dealcheck",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.propsocial.my",
+        "country": "Malaysia",
+        "domain": "propsocial",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.numbeo.com",
+        "country": "Global",
+        "domain": "numbeo",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.zillow.com",
+        "country": "Global",
+        "domain": "zillow",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.gisplanning.com",
+        "country": "Global",
+        "domain": "gisplanning",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.which.co.uk",
+        "country": "United Kingdom",
+        "domain": "which",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://property.ca",
+        "country": "Canada",
+        "domain": "property",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.jllhomes.co.in",
+        "country": "India",
+        "domain": "jllhomes",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://metricx.com",
+        "country": "Global",
+        "domain": "metricx",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.rightmove.co.uk",
+        "country": "United Kingdom",
+        "domain": "rightmove",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://plugins.jetbrains.com",
+        "country": "Global",
+        "domain": "jetbrains",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.apartmenttherapy.com",
+        "country": "Global",
+        "domain": "apartmenttherapy",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://medium.com",
+        "country": "Global",
+        "domain": "medium",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://lifehacker.com",
+        "country": "Global",
+        "domain": "lifehacker",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.har.com",
+        "country": "Global",
+        "domain": "har",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ea4me.hoa.org.uk",
+        "country": "United Kingdom",
+        "domain": "hoa",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.tiktok.com",
+        "country": "Global",
+        "domain": "tiktok",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.breakthroughbroker.com",
+        "country": "Global",
+        "domain": "breakthroughbroker",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://support.google.com",
+        "country": "Global",
+        "domain": "google",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.contentpowered.com",
+        "country": "Global",
+        "domain": "contentpowered",
+        "category": "Media"
+    },
+    {
+        "url": "https://dhl-consulting.com",
+        "country": "Global",
+        "domain": "dhl-consulting",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.itilite.com",
+        "country": "Global",
+        "domain": "itilite",
+        "category": "Media"
+    },
+    {
+        "url": "https://precoro.com",
+        "country": "Global",
+        "domain": "precoro",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.camsmgt.com",
+        "country": "Global",
+        "domain": "camsmgt",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.appcues.com",
+        "country": "Global",
+        "domain": "appcues",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.revenueriver.co",
+        "country": "Company",
+        "domain": "revenueriver",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.reedmackay.com",
+        "country": "Global",
+        "domain": "reedmackay",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://mailmate.jp",
+        "country": "Japan",
+        "domain": "mailmate",
+        "category": "Media"
+    },
+    {
+        "url": "https://bejamas.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "bejamas",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.premier-ltd.com",
+        "country": "Global",
+        "domain": "premier-ltd",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://webkul.com",
+        "country": "Global",
+        "domain": "webkul",
+        "category": "Media"
+    },
+    {
+        "url": "https://camunda.com",
+        "country": "Global",
+        "domain": "camunda",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.optibus.com",
+        "country": "Global",
+        "domain": "optibus",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://storeganise.com",
+        "country": "Global",
+        "domain": "storeganise",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://aws.amazon.com",
+        "country": "Global",
+        "domain": "amazon",
+        "category": "Media"
+    },
+    {
+        "url": "https://blog.iimb.ac.in",
+        "country": "India",
+        "domain": "iimb",
+        "category": "Media"
+    },
+    {
+        "url": "https://venngage.com",
+        "country": "Global",
+        "domain": "venngage",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.parallels.com",
+        "country": "Global",
+        "domain": "parallels",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.oneconcern.com",
+        "country": "Global",
+        "domain": "oneconcern",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.ibm.com",
+        "country": "Global",
+        "domain": "ibm",
+        "category": "Media"
+    },
+    {
+        "url": "https://hrmos.co",
+        "country": "Company",
+        "domain": "hrmos",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.betterteam.com",
+        "country": "Global",
+        "domain": "betterteam",
+        "category": "Media"
+    },
+    {
+        "url": "https://resources.workable.com",
+        "country": "Global",
+        "domain": "workable",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.solidworks.com",
+        "country": "Global",
+        "domain": "solidworks",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.solidworks.com",
+        "country": "Global",
+        "domain": "solidworks",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.indeed.com",
+        "country": "Global",
+        "domain": "indeed",
+        "category": "Media"
+    },
+    {
+        "url": "https://jp.linkedin.com",
+        "country": "Global",
+        "domain": "linkedin",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.linkedin.com",
+        "country": "Global",
+        "domain": "linkedin",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.ziprecruiter.com",
+        "country": "Global",
+        "domain": "ziprecruiter",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://careers.tiktok.com",
+        "country": "Global",
+        "domain": "tiktok",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://my.3dexperience.3ds.com",
+        "country": "Global",
+        "domain": "3ds",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://sociality.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "sociality",
+        "category": "Media"
+    },
+    {
+        "url": "https://breezy.hr",
+        "country": "",
+        "domain": "breezy",
+        "category": "Media"
+    },
+    {
+        "url": "https://sproutsocial.com",
+        "country": "Global",
+        "domain": "sproutsocial",
+        "category": "Media"
+    },
+    {
+        "url": "https://analysisfunction.civilservice.gov.uk",
+        "country": "United Kingdom",
+        "domain": "civilservice",
+        "category": "Media"
+    },
+    {
+        "url": "https://jobs.disneycareers.jp",
+        "country": "Japan",
+        "domain": "disneycareers",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://statusbrew.com",
+        "country": "Global",
+        "domain": "statusbrew",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.amazon.co.jp",
+        "country": "Japan",
+        "domain": "amazon",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://data-viz-lab.com",
+        "country": "Global",
+        "domain": "data-viz-lab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.nec-solutioninnovators.co.jp",
+        "country": "Japan",
+        "domain": "nec-solutioninnovators",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.intage-technosphere.co.jp",
+        "country": "Japan",
+        "domain": "intage-technosphere",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.principle-c.com",
+        "country": "Global",
+        "domain": "principle-c",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://pig-data.jp",
+        "country": "Japan",
+        "domain": "pig-data",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.persol-pt.co.jp",
+        "country": "Japan",
+        "domain": "persol-pt",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.keywalker.co.jp",
+        "country": "Japan",
+        "domain": "keywalker",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.nttdata-kansai.co.jp",
+        "country": "Japan",
+        "domain": "nttdata-kansai",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.seraku.co.jp",
+        "country": "Japan",
+        "domain": "seraku",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://businesssolution.konicaminolta.jp",
+        "country": "Japan",
+        "domain": "konicaminolta",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://wakuwaku.cresco.co.jp",
+        "country": "Japan",
+        "domain": "cresco",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.sirius-ds.com",
+        "country": "Global",
+        "domain": "sirius-ds",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.qsolcorp.co.jp",
+        "country": "Japan",
+        "domain": "qsolcorp",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.zdh.co.jp",
+        "country": "Japan",
+        "domain": "zdh",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.valuesccg.com",
+        "country": "Global",
+        "domain": "valuesccg",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://jtug.jp",
+        "country": "Japan",
+        "domain": "jtug",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://prtimes.jp",
+        "country": "Japan",
+        "domain": "prtimes",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kaho-enterprise.co.jp",
+        "country": "Japan",
+        "domain": "kaho-enterprise",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.webtanguide.jp",
+        "country": "Japan",
+        "domain": "webtanguide",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.comnico.jp",
+        "country": "Japan",
+        "domain": "comnico",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://cms.comnico.jp",
+        "country": "Japan",
+        "domain": "comnico",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://coorum.jp",
+        "country": "Japan",
+        "domain": "coorum",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.aspicjapan.org",
+        "country": "Organization",
+        "domain": "aspicjapan",
+        "category": "Media"
+    },
+    {
+        "url": "https://boxil.jp",
+        "country": "Japan",
+        "domain": "boxil",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://solution.toppan.co.jp",
+        "country": "Japan",
+        "domain": "toppan",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://live.doneru.jp",
+        "country": "Japan",
+        "domain": "doneru",
+        "category": "Media"
+    },
+    {
+        "url": "https://liskul.com",
+        "country": "Global",
+        "domain": "liskul",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.shopowner-support.net",
+        "country": "Network",
+        "domain": "shopowner-support",
+        "category": "Media"
+    },
+    {
+        "url": "https://sns.userlocal.jp",
+        "country": "Japan",
+        "domain": "userlocal",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://3naoshi.com",
+        "country": "Global",
+        "domain": "3naoshi",
+        "category": "Media"
+    },
+    {
+        "url": "https://grove.tokyo",
+        "country": "Japan",
+        "domain": "grove",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.roadmap.co.jp",
+        "country": "Japan",
+        "domain": "roadmap",
+        "category": "Media"
+    },
+    {
+        "url": "https://keywordmap.jp",
+        "country": "Japan",
+        "domain": "keywordmap",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://social.ccxcloud.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "ccxcloud",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://dxlog.biz",
+        "country": "Business",
+        "domain": "dxlog",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://social-dog.net",
+        "country": "Network",
+        "domain": "social-dog",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://social-dog.net",
+        "country": "Network",
+        "domain": "social-dog",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.uzabase.com",
+        "country": "Global",
+        "domain": "uzabase",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://double-std.com",
+        "country": "Global",
+        "domain": "double-std",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.forcas.com",
+        "country": "Global",
+        "domain": "forcas",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.biz.ne.jp",
+        "country": "Japan",
+        "domain": "biz",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://2075.jp",
+        "country": "Japan",
+        "domain": "2075",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.seedsolutions.co.jp",
+        "country": "Japan",
+        "domain": "seedsolutions",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://butinuki.co.jp",
+        "country": "Japan",
+        "domain": "butinuki",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://digital-shift.jp",
+        "country": "Japan",
+        "domain": "digital-shift",
+        "category": "Media"
+    },
+    {
+        "url": "https://imitsu.jp",
+        "country": "Japan",
+        "domain": "imitsu",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.sms-datatech.co.jp",
+        "country": "Japan",
+        "domain": "sms-datatech",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.octoparse.jp",
+        "country": "Japan",
+        "domain": "octoparse",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://autoro.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "autoro",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.higobank.co.jp",
+        "country": "Japan",
+        "domain": "higobank",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.sbi-bs.co.jp",
+        "country": "Japan",
+        "domain": "sbi-bs",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://inouesystems.com",
+        "country": "Global",
+        "domain": "inouesystems",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.pogotec.jp",
+        "country": "Japan",
+        "domain": "pogotec",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.ntt-west.co.jp",
+        "country": "Japan",
+        "domain": "ntt-west",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.musashinobank.co.jp",
+        "country": "Japan",
+        "domain": "musashinobank",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ja.wikipedia.org",
+        "country": "Organization",
+        "domain": "wikipedia",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.itreview.jp",
+        "country": "Japan",
+        "domain": "itreview",
+        "category": "Media"
+    },
+    {
+        "url": "https://dalab.jp",
+        "country": "Japan",
+        "domain": "dalab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://recruit.dalab.jp",
+        "country": "Japan",
+        "domain": "dalab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.manageengine.jp",
+        "country": "Japan",
+        "domain": "manageengine",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.site24x7.jp",
+        "country": "Japan",
+        "domain": "site24x7",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://logicmonitor.saaspresto.jp",
+        "country": "Japan",
+        "domain": "saaspresto",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://wacul-ai.com",
+        "country": "Global",
+        "domain": "wacul-ai",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://appmill.work",
+        "country": "",
+        "domain": "appmill",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.monitoring-plus.jp",
+        "country": "Japan",
+        "domain": "monitoring-plus",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.capterra.jp",
+        "country": "Japan",
+        "domain": "capterra",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kinsta.com",
+        "country": "Global",
+        "domain": "kinsta",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.rworks.jp",
+        "country": "Japan",
+        "domain": "rworks",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.designet.co.jp",
+        "country": "Japan",
+        "domain": "designet",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://majisemi.com",
+        "country": "Global",
+        "domain": "majisemi",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.solarwinds.com",
+        "country": "Global",
+        "domain": "solarwinds",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kn.itmedia.co.jp",
+        "country": "Japan",
+        "domain": "itmedia",
+        "category": "Media"
+    },
+    {
+        "url": "https://liginc.co.jp",
+        "country": "Japan",
+        "domain": "liginc",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://blitz-marketing.co.jp",
+        "country": "Japan",
+        "domain": "blitz-marketing",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://ferret-plus.com",
+        "country": "Global",
+        "domain": "ferret-plus",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.tis.jp",
+        "country": "Japan",
+        "domain": "tis",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.marketenterprise.co.jp",
+        "country": "Japan",
+        "domain": "marketenterprise",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.hp-maker.net",
+        "country": "Network",
+        "domain": "hp-maker",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www2.biznet.co.jp",
+        "country": "Japan",
+        "domain": "biznet",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.nissen.biz",
+        "country": "Business",
+        "domain": "nissen",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://seiyaku-sales.jp",
+        "country": "Japan",
+        "domain": "seiyaku-sales",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.microsoft.com",
+        "country": "Global",
+        "domain": "microsoft",
+        "category": "Media"
+    },
+    {
+        "url": "https://fudousan-tools.info",
+        "country": "Information",
+        "domain": "fudousan-tools",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.juno-e.com",
+        "country": "Global",
+        "domain": "juno-e",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://casamia.trust5.co.jp",
+        "country": "Japan",
+        "domain": "trust5",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://gigazine.net",
+        "country": "Network",
+        "domain": "gigazine",
+        "category": "Media"
+    },
+    {
+        "url": "https://trend.zenchin-fair.com",
+        "country": "Global",
+        "domain": "zenchin-fair",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.notion.so",
+        "country": "",
+        "domain": "notion",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://monstar-lab.com",
+        "country": "Global",
+        "domain": "monstar-lab",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://sumai-kyokasho.net",
+        "country": "Network",
+        "domain": "sumai-kyokasho",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.e-state.ne.jp",
+        "country": "Japan",
+        "domain": "e-state",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kyozon.net",
+        "country": "Network",
+        "domain": "kyozon",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.crd-office.net",
+        "country": "Network",
+        "domain": "crd-office",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.es-service.net",
+        "country": "Network",
+        "domain": "es-service",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.jllproperty.jp",
+        "country": "Japan",
+        "domain": "jllproperty",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.sixapart.jp",
+        "country": "Japan",
+        "domain": "sixapart",
+        "category": "Media"
+    },
+    {
+        "url": "https://ferret-one.com",
+        "country": "Global",
+        "domain": "ferret-one",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.comlog.jp",
+        "country": "Japan",
+        "domain": "comlog",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://3ad-jimuki.co.jp",
+        "country": "Japan",
+        "domain": "3ad-jimuki",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.parco-digital.co.jp",
+        "country": "Japan",
+        "domain": "parco-digital",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://kinsta.com",
+        "country": "Global",
+        "domain": "kinsta",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://yamory.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "yamory",
+        "category": "Media"
+    },
+    {
+        "url": "https://revisio.co.jp",
+        "country": "Japan",
+        "domain": "revisio",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://tayori.com",
+        "country": "Global",
+        "domain": "tayori",
+        "category": "Media"
+    },
+    {
+        "url": "https://mojikaku.co.jp",
+        "country": "Japan",
+        "domain": "mojikaku",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://keizu.co.jp",
+        "country": "Japan",
+        "domain": "keizu",
+        "category": "Media"
+    },
+    {
+        "url": "https://webrage.jp",
+        "country": "Japan",
+        "domain": "webrage",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://tsk-pf.com",
+        "country": "Global",
+        "domain": "tsk-pf",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://printio.me",
+        "country": "Montenegro",
+        "domain": "printio",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://allweb-consulting.co.jp",
+        "country": "Japan",
+        "domain": "allweb-consulting",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://roboma.io",
+        "country": "British Indian Ocean Territory",
+        "domain": "roboma",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.hatena.ne.jp",
+        "country": "Japan",
+        "domain": "hatena",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.ailead.app",
+        "country": "Application",
+        "domain": "ailead",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://service.firstcall.md",
+        "country": "Moldova",
+        "domain": "firstcall",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://emma.tools",
+        "country": "",
+        "domain": "emma",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.atpress.ne.jp",
+        "country": "Japan",
+        "domain": "atpress",
+        "category": "Media"
+    },
+    {
+        "url": "https://tsukulog.work",
+        "country": "",
+        "domain": "tsukulog",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.instagram.com",
+        "country": "Global",
+        "domain": "instagram",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://tracxn.com",
+        "country": "Global",
+        "domain": "tracxn",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.tiktok.com",
+        "country": "Global",
+        "domain": "tiktok",
+        "category": "Media"
+    },
+    {
+        "url": "https://twitter.com",
+        "country": "Global",
+        "domain": "twitter",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://m.facebook.com",
+        "country": "Global",
+        "domain": "facebook",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.facebook.com",
+        "country": "Global",
+        "domain": "facebook",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://www.linkedin.com",
+        "country": "Global",
+        "domain": "linkedin",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://paiza.jp",
+        "country": "Japan",
+        "domain": "paiza",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://web-strategist.com",
+        "country": "Global",
+        "domain": "web-strategist",
+        "category": "Media"
+    },
+    {
+        "url": "https://job.rikunabi.com",
+        "country": "Global",
+        "domain": "rikunabi",
+        "category": "Media"
+    },
+    {
+        "url": "https://www.weblio.jp",
+        "country": "Japan",
+        "domain": "weblio",
+        "category": "NonMedia"
+    },
+    {
+        "url": "https://prabook.com",
+        "country": "Global",
+        "domain": "prabook",
+        "category": "NonMedia"
+    }
+]
